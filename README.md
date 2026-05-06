@@ -45,11 +45,11 @@ Integrated analysis reveals distinct immune cell populations with improved separ
 
 **Cell Type Annotation**
 Major immune cell types identified include:
-T cells
-B cells
-Natural Killer (NK) cells
-Monocytes
-Dendritic cells
+T cells,
+B cells,
+Natural Killer (NK) cells,
+Monocytes,
+and Dendritic cells
 
 ![Cell Types](figures/08_final_celltypes.png)
 
